@@ -1,3 +1,4 @@
 data/
 basicnn/
 lightning_logs/
+guidedtraining/pascalvoc/
